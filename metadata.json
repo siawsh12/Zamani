@@ -1,0 +1,8 @@
+{
+  "name": "Qamar AI",
+  "description": "A starter project for building web applications.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
